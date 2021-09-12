@@ -264,7 +264,8 @@ form {
   }
 
   .delete-stuff {
-    bottom: -45px;
+    bottom: -60px;
+    padding-bottom: 1em;
   }
 }
 
@@ -282,7 +283,8 @@ form {
   }
 
   .delete-stuff {
-    bottom: -45px;
+    bottom: -60px;
+    padding-bottom: 1em;
   }
 
   .list-title {
@@ -311,7 +313,8 @@ form {
   }
 
   .delete-stuff {
-    bottom: -45px;
+    bottom: -60px;
+    padding-bottom: 1em;
   }
 
   .list-title {
@@ -342,7 +345,8 @@ form {
     margin-bottom: 2em;
   }
   .delete-stuff {
-    bottom: -45px;
+    bottom: -60px;
+    padding-bottom: 1em;
   }
   .list-title {
     font-size: 1.1em;
@@ -370,7 +374,8 @@ form {
     margin-bottom: 2em;
   }
   .delete-stuff {
-    bottom: -45px;
+    bottom: -60px;
+    padding-bottom: 1em;
   }
   .list-title {
     font-size: 1em;
@@ -397,7 +402,8 @@ form {
     margin-bottom: 2em;
   }
   .delete-stuff {
-    bottom: -45px;
+    bottom: -60px;
+    padding-bottom: 1em;
   }
   .list-title {
     font-size: 0.8em;
