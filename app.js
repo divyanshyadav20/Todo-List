@@ -94,7 +94,7 @@ function render() {
   clearElement(listsContainer);
   renderLists();
   const selectedList = lists.find((list) => list.id === selectedListId);
-  if (selectedListId == null) {
+  if (selectedList == undefined) {
     listDisplayContainer.style.display = "none";
   } else {
     listDisplayContainer.style.display = "";
