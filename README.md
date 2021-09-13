@@ -7,6 +7,6 @@ This is a Todo List application which consists of four primary features:
 3. Lists and tasks created by the user can be stored in the local storage of the user's browser to avoid losing the data on refresing the webpage.
 4. This application is mobile responsive as well.
 
-#### This is the link to the project => https://divyansh-yadav-todo-list.netlify.app/
+#### [Website Link]( https://divyansh-yadav-todo-list.netlify.app/)
 
 <img width="957" alt="Screenshot todo list" src="https://user-images.githubusercontent.com/74250682/133072263-b5efaab9-e965-4f90-91dc-fcf85b84882d.png">
