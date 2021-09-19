@@ -1,4 +1,4 @@
-# Todo-List
+# Todo-List :memo:
 
 This is a Todo List application which consists of four primary features: 
 
